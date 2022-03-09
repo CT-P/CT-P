@@ -3,7 +3,7 @@
 👀 I’m interested in Political Science and Computational Social Science methods
 
 
-Previously a Data Scientist in Microsoft, now finnishing a master thesis about Political Polarization with Data Science methods 
+Previously a Data Scientist in Microsoft, now finnishing a Master thesis about Political Polarization with Data Science methods 
 
 
 🌱 International Studies MA (2020-2022) @ISCTE
