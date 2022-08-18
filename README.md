@@ -6,7 +6,7 @@ PhD Candidate for Political Science at Methodology department
 
 Previously a Data Scientist at Microsoft 
 
-🌱 Political Science PhD (2022-2024) @UZH
+🌱 Political Science PhD (2022-2026) @UZH
 
 🌱 International Studies MA (2020-2022) @ISCTE
 
