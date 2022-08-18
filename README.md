@@ -2,9 +2,10 @@
 
 👀 I’m interested in Political Science and Computational Social Science methods
 
+PhD Candidate for Political Science at Methodology department
+Previously a Data Scientist at Microsoft 
 
-Previously a Data Scientist in Microsoft, now finnishing a Master thesis about Political Polarization with Data Science methods 
-
+🌱 Political Science PhD (2022-2024) @UZH
 
 🌱 International Studies MA (2020-2022) @ISCTE
 
