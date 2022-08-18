@@ -3,6 +3,7 @@
 👀 I’m interested in Political Science and Computational Social Science methods
 
 PhD Candidate for Political Science at Methodology department
+
 Previously a Data Scientist at Microsoft 
 
 🌱 Political Science PhD (2022-2024) @UZH
