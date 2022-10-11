@@ -1,8 +1,8 @@
 👋 Hi, I’m Catarina
 
-👀 I’m interested in Political Science and Computational Social Science methods
+👀 I’m interested in Democratic Deliberation, Polarization, and Computational Social Science methods
 
-PhD Candidate for Political Science at Methodology department
+PhD Candidate for Political Science at Political Methodology department
 
 Previously a Data Scientist at Microsoft 
 
